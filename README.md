@@ -1,6 +1,6 @@
 ### 脱毛かれピ　👎
 
-<img src='終ハド 背景黒.png'>
+<img src='https://lh3.googleusercontent.com/a-/AOh14GjNAwRNo1BAEGq3wEMfEVmJzRoAhYYoaEq25E-5=s96-c-rg-br100'>
 <!--
 **gnk-82/gnk-82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
