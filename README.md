@@ -1,6 +1,6 @@
 ### 脱毛かれピ　👎
 
-<img src='https://drive.google.com/file/d/1fMZO9XDsJgqsHFwHarI26bR-Vl3xHRPR/view'>
+<img src='https://3.bp.blogspot.com/-c3e8Wrl2bHg/VtuvVVIWcJI/AAAAAAAA4eg/_cxpr3M07hE/s800/supuer_nihonjin.png'>
 <!--
 **gnk-82/gnk-82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
