@@ -1,6 +1,6 @@
 ### 脱毛かれピ　👎
 
-<img src='https://lh3.googleusercontent.com/a-/AOh14GjNAwRNo1BAEGq3wEMfEVmJzRoAhYYoaEq25E-5=s96-c-rg-br100'>
+<img src='file:///Users/genki/Downloads/%E7%B5%82%E3%83%8F%E3%83%88%E3%82%99%20%E8%83%8C%E6%99%AF%E9%BB%92.png'>
 <!--
 **gnk-82/gnk-82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
