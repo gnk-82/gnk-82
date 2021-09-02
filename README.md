@@ -1,9 +1,11 @@
 ### 脱毛かれピ　👎
 
 <img src='https://3.bp.blogspot.com/-c3e8Wrl2bHg/VtuvVVIWcJI/AAAAAAAA4eg/_cxpr3M07hE/s800/supuer_nihonjin.png'>
+### わたし　が　できるこ　と
+<img src='https://lh3.googleusercontent.com/proxy/H3kaImaiYRk4QE83P2OvgQDJTgQqEOszwQ0uK1iAftPyu4sbK-jZQ9ruQbG5N8Iwu-b80FjvYpV0TpNysdjYfB7at9U17HE_FMiN5NBz'><img src='https://lh3.googleusercontent.com/proxy/H3kaImaiYRk4QE83P2OvgQDJTgQqEOszwQ0uK1iAftPyu4sbK-jZQ9ruQbG5N8Iwu-b80FjvYpV0TpNysdjYfB7at9U17HE_FMiN5NBz'>
+
 <!--
 
-### わたし　が　できるこ　と
 **gnk-82/gnk-82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
