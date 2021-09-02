@@ -1,4 +1,4 @@
-<[DKP](https://user-images.githubusercontent.com/89884135/131857304-6f4c8bfa-81db-4bc5-97b1-1a07c95525fe.png) width="100">
+![DKP](https://user-images.githubusercontent.com/89884135/131857304-6f4c8bfa-81db-4bc5-97b1-1a07c95525fe.png)
 
 ### My tools
 <img align="left" src='https://lh3.googleusercontent.com/proxy/H3kaImaiYRk4QE83P2OvgQDJTgQqEOszwQ0uK1iAftPyu4sbK-jZQ9ruQbG5N8Iwu-b80FjvYpV0TpNysdjYfB7at9U17HE_FMiN5NBz' width="50px"> <img align="left" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/788px-Adobe_Photoshop_CC_icon.svg.png' width="50px"> <img align="left" src='https://cdn.pixabay.com/photo/2021/02/03/12/28/adobe-illustrator-5977785_960_720.png' width="50px"> <img align="left" src='https://lh3.googleusercontent.com/proxy/nxqXtlGIEuHUQRgSNi5VEhSJY2LbgdjtHwaisu1VeNN-8yh5JeYBssS1MHp9P6P7FYX071vbmb2wYNPnz97rwpAKRipkvx92fi2hqNbC5eGy5qAUcwggu1xOTGObbUR7nYU' width="52px">
