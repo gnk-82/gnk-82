@@ -6,6 +6,7 @@
 <img align="left" src='https://cdn.pixabay.com/photo/2021/02/03/12/28/adobe-illustrator-5977785_960_720.png' width="50px">
 <img align="left" src='https://lh3.googleusercontent.com/proxy/nxqXtlGIEuHUQRgSNi5VEhSJY2LbgdjtHwaisu1VeNN-8yh5JeYBssS1MHp9P6P7FYX071vbmb2wYNPnz97rwpAKRipkvx92fi2hqNbC5eGy5qAUcwggu1xOTGObbUR7nYU' width="52px">
 <img align="left" src='https://cdn.pngsumo.com/how-to-download-netflix-videos-to-your-ios-device-for-offline-viewing-netflix-icon-download-208_208.jpg' width="50px">
+<img align="left" src='https://d1e0nou58doauk.cloudfront.net/apprev/wp-content/uploads/2015/11/amazonprimevideo.png' width="50px">
 <img align="left" src='https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/a1/ee/bb/a1eebb51-2175-342f-1d7f-7189e3d076dc/source/200x200bb.jpg' width="50px">
 <img align="left" src='https://snsdays.com/wp-content/uploads/2020/06/IMG_E2798.jpg' width="50px">
 <img align="left" src='https://dohack.jp/wp-content/uploads/2018/09/20180918173901_1.jpeg' width="50px">
