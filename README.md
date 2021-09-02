@@ -1,7 +1,10 @@
 ### 脱毛かれピ　👎
 
 ### わたし　が　できるこ　と
-<img align="left" src='https://lh3.googleusercontent.com/proxy/H3kaImaiYRk4QE83P2OvgQDJTgQqEOszwQ0uK1iAftPyu4sbK-jZQ9ruQbG5N8Iwu-b80FjvYpV0TpNysdjYfB7at9U17HE_FMiN5NBz' width="64px">
+<img align="left" src='https://lh3.googleusercontent.com/proxy/H3kaImaiYRk4QE83P2OvgQDJTgQqEOszwQ0uK1iAftPyu4sbK-jZQ9ruQbG5N8Iwu-b80FjvYpV0TpNysdjYfB7at9U17HE_FMiN5NBz' width="64px"> <img align="left" src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/788px-Adobe_Photoshop_CC_icon.svg.png' width="64px">
+
+
+
 
 <!--
 
